@@ -1,0 +1,4 @@
+,model,accuracy,ROC_AUC,time (sec)
+0,LogisticRegression,0.821226,0.869871,2.5
+1,RandomForestClassifier,0.822537,0.870881,15.5
+2,GradientBoostingClassifier,0.825408,0.87478,9.0
